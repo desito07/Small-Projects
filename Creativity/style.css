@@ -104,3 +104,40 @@ button {
     background: url(icons/search-icon.png) no-repeat;
 }
 
+section {
+    background-color: rgb(247, 250, 252);    
+}
+
+.container-section {
+    width: 300px;
+    margin: auto;
+    padding-top:100px;
+    padding-bottom: 80px;
+}
+
+.shape-button {
+    display: block;
+    height: 70px;
+    margin-left: 107px; 
+    margin-top: 0; 
+    padding-top: 20px;  
+    border: none;
+    background: url(icons/shape-icon.png) no-repeat;
+}
+
+.h2-section, 
+.h6-section{ 
+    text-align: center;
+    margin:0;
+}
+
+.h2-section {
+    color: #1A2940;
+    font-weight: 500;    
+}
+
+.h6-section{
+    color: #A8B9C0;
+    font-weight: 400;
+}
+
