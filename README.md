@@ -1,7 +1,7 @@
 # Small-Projects
 
-1. Creativity
-2. My blog about Severus Snape using WordPress - www.sectumsempracurse.com
+1. My blog about Severus Snape using WordPress - www.sectumsempracurse.com
+2. Creativity
 3. Project Alpha
 4. Our latest Products
 5. My Posts - Demo Child Selectors
